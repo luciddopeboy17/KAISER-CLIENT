@@ -1,6 +1,3 @@
-# KAISER-CLIENT
-Private Minecraft Java Edition client development project with Microsoft account authentication and ownership verification.
-
 # KAISER CLIENT
 
 KAISER CLIENT is a personal Minecraft Java Edition client development project based on the open-source LiquidBounce Nextgen project.
